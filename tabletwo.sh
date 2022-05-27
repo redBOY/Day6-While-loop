@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 read -p "enter the number": n
 limits=$((2**n))
 count=0
