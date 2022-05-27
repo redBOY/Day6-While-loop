@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 Headcount=o;
 Tailcount=0;
 flag=1;
